@@ -1,0 +1,5 @@
+{"timestamp":266215,"category":"nimbus_events","name":"validation_failed","extra":{"experiment":"add-an-image-to-pdf-with-alt-text-rollout","feature":"addAnImageInPDF","glean_timestamp":"1745297681289","reason":"invalid-feature"}}
+{"timestamp":282991,"category":"nimbus_events","name":"unenrollment","extra":{"glean_timestamp":"1745297698064","experiment":"phc-rollout","reason":"recipe-not-seen","branch":"rollout"}}
+{"timestamp":282991,"category":"nimbus_events","name":"unenrollment","extra":{"glean_timestamp":"1745297698065","experiment":"disable-redirects-for-authretries","branch":"control","reason":"recipe-not-seen"}}
+{"timestamp":282992,"category":"nimbus_events","name":"unenrollment","extra":{"experiment":"fx-view-discoverability-2025-rollout","branch":"treatment-b","reason":"recipe-not-seen","glean_timestamp":"1745297698065"}}
+{"timestamp":282992,"category":"nimbus_events","name":"validation_failed","extra":{"reason":"invalid-feature","glean_timestamp":"1745297698066","experiment":"add-an-image-to-pdf-with-alt-text-rollout","feature":"addAnImageInPDF"}}

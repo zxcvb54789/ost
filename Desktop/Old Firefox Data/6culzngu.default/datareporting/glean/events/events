@@ -1,0 +1,9 @@
+{"timestamp":257069,"category":"webcompatreporting","name":"reason_dropdown","extra":{"glean_timestamp":"1745297672144","setting":"required"}}
+{"timestamp":266215,"category":"nimbus_events","name":"validation_failed","extra":{"experiment":"add-an-image-to-pdf-with-alt-text-rollout","feature":"addAnImageInPDF","glean_timestamp":"1745297681289","reason":"invalid-feature"}}
+{"timestamp":266217,"category":"nimbus_events","name":"is_ready","extra":{"glean_timestamp":"1745297681290"}}
+{"timestamp":274294,"category":"urlbar","name":"engagement","extra":{"search_engine_default_id":"google-ubuntu-sn","sap":"urlbar_newtab","engagement_type":"enter","selected_position":"1","n_words":"1","n_chars":"16","provider":"HeuristicFallback","search_mode":"","actions":"none,none","groups":"heuristic,general","n_results":"2","results":"url,search_engine","glean_timestamp":"1745297689368","selected_result":"url","interaction":"typed"}}
+{"timestamp":282991,"category":"nimbus_events","name":"unenrollment","extra":{"glean_timestamp":"1745297698064","experiment":"phc-rollout","reason":"recipe-not-seen","branch":"rollout"}}
+{"timestamp":282991,"category":"nimbus_events","name":"unenrollment","extra":{"glean_timestamp":"1745297698065","experiment":"disable-redirects-for-authretries","branch":"control","reason":"recipe-not-seen"}}
+{"timestamp":282992,"category":"nimbus_events","name":"unenrollment","extra":{"experiment":"fx-view-discoverability-2025-rollout","branch":"treatment-b","reason":"recipe-not-seen","glean_timestamp":"1745297698065"}}
+{"timestamp":282992,"category":"nimbus_events","name":"validation_failed","extra":{"reason":"invalid-feature","glean_timestamp":"1745297698066","experiment":"add-an-image-to-pdf-with-alt-text-rollout","feature":"addAnImageInPDF"}}
+{"timestamp":282992,"category":"nimbus_events","name":"is_ready","extra":{"glean_timestamp":"1745297698066"}}

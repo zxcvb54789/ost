@@ -1,0 +1,13 @@
+9
+
+https://web.whatsapp.com/
+https://web.whatsapp.com/sw.js
+true
+{43669863-d1cf-4e9e-867c-7f6d0f7bece9}
+1
+1745302313749645
+1745302314123037
+1745302307876977
+0
+true
+#

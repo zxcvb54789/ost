@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/tsp/Pictures/Screenshots/Screenshot%20from%202025-02-13%2013-08-13.png" added="2025-02-13T13:08:13.228712Z" modified="2025-02-13T16:56:03.714802Z" visited="2025-02-13T13:08:13.228713Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-02-13T13:08:13.228714Z" count="1"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2025-02-13T16:56:03.695465Z" count="2"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2025-02-13T16:56:03.714799Z" count="2"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2025-02-13T16:45:31.866003Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tsp/Pictures/Screenshots/Screenshot%20from%202025-02-13%2013-17-53.png" added="2025-02-13T13:17:53.079528Z" modified="2025-02-13T16:45:29.356644Z" visited="2025-02-13T13:17:53.079529Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-02-13T13:17:53.079530Z" count="1"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2025-02-13T14:25:47.947981Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2025-02-13T14:25:47.956945Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2025-02-13T16:45:29.356641Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tsp/Pictures/Screenshots/Screenshot%20from%202025-02-13%2013-18-25.png" added="2025-02-13T13:18:25.696665Z" modified="2025-02-13T16:45:28.190410Z" visited="2025-02-13T13:18:25.696666Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-02-13T13:18:25.696667Z" count="1"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2025-02-13T14:25:59.360993Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2025-02-13T14:25:59.363114Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2025-02-13T16:45:28.190408Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tsp/Pictures/Screenshots/Screenshot%20from%202025-02-13%2013-24-13.png" added="2025-02-13T13:24:13.630995Z" modified="2025-02-13T16:45:26.270403Z" visited="2025-02-13T13:24:13.630997Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-02-13T13:24:13.630997Z" count="1"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2025-02-13T14:26:08.132425Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2025-02-13T14:26:08.134561Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2025-02-13T16:45:26.270401Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tsp/Pictures/Screenshots/Screenshot%20from%202025-02-13%2013-25-01.png" added="2025-02-13T13:25:01.874788Z" modified="2025-02-13T16:45:18.123876Z" visited="2025-02-13T13:25:01.874789Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-02-13T13:25:01.874789Z" count="1"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2025-02-13T14:26:20.792547Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2025-02-13T14:26:20.806889Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2025-02-13T16:45:18.123873Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tsp/Pictures/Screenshots/Screenshot%20from%202025-02-13%2013-32-42.png" added="2025-02-13T13:32:42.363248Z" modified="2025-02-13T16:45:16.558402Z" visited="2025-02-13T13:32:42.363250Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-02-13T13:32:42.363250Z" count="1"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2025-02-13T14:26:32.576327Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2025-02-13T14:26:32.581550Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2025-02-13T16:45:16.558400Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tsp/Pictures/Screenshots/Screenshot%20from%202025-02-13%2013-33-51.png" added="2025-02-13T13:33:51.984141Z" modified="2025-02-13T16:45:41.848370Z" visited="2025-02-13T13:33:51.984143Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-02-13T13:33:51.984143Z" count="1"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2025-02-13T14:27:08.143349Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2025-02-13T14:27:08.145547Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2025-02-13T16:45:41.848369Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tsp/Pictures/Screenshots/Screenshot%20from%202025-02-13%2013-37-20.png" added="2025-02-13T13:37:20.942638Z" modified="2025-02-13T16:45:40.867438Z" visited="2025-02-13T13:37:20.942639Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-02-13T13:37:20.942640Z" count="1"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2025-02-13T14:27:34.818612Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2025-02-13T14:27:34.820549Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2025-02-13T16:45:40.867436Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tsp/Pictures/Screenshots/Screenshot%20from%202025-02-13%2014-03-30.png" added="2025-02-13T14:03:30.495364Z" modified="2025-02-13T16:45:37.838575Z" visited="2025-02-13T14:03:30.495365Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-02-13T14:03:30.495367Z" count="1"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2025-02-13T14:28:11.858633Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2025-02-13T14:28:11.875267Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;eog %U&apos;" modified="2025-02-13T16:44:10.379759Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2025-02-13T16:45:37.838573Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tsp/Pictures/Screenshots/Screenshot%20from%202025-02-13%2014-03-54.png" added="2025-02-13T14:03:54.828954Z" modified="2025-02-13T16:45:37.066402Z" visited="2025-02-13T14:03:54.828955Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-02-13T14:03:54.828955Z" count="1"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2025-02-13T14:27:54.548624Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2025-02-13T14:27:54.565068Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2025-02-13T16:45:37.066401Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tsp/Pictures/Screenshots/Screenshot%20from%202025-02-13%2014-06-52.png" added="2025-02-13T14:06:52.198121Z" modified="2025-02-13T16:45:36.245366Z" visited="2025-02-13T14:06:52.198123Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-02-13T14:06:52.198123Z" count="1"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2025-02-13T14:28:32.474593Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2025-02-13T14:28:32.477423Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2025-02-13T16:45:36.245365Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tsp/Pictures/Screenshots/Screenshot%20from%202025-02-13%2014-20-47.png" added="2025-02-13T14:20:47.409814Z" modified="2025-02-13T16:45:35.306586Z" visited="2025-02-13T14:20:47.409814Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-02-13T14:20:47.409815Z" count="1"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2025-02-13T14:29:06.428177Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2025-02-13T14:29:06.443737Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2025-02-13T16:45:35.306584Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tsp/Pictures/Screenshots/Screenshot%20from%202025-02-13%2014-20-58.png" added="2025-02-13T14:20:58.100592Z" modified="2025-02-13T16:45:33.020376Z" visited="2025-02-13T14:20:58.100592Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-02-13T14:20:58.100592Z" count="1"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2025-02-13T14:29:16.075034Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2025-02-13T14:29:16.078486Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2025-02-13T16:45:33.020374Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tsp/Pictures/Screenshots/Screenshot%20from%202025-02-13%2013-09-51.png" added="2025-02-13T14:24:56.071779Z" modified="2025-04-22T06:15:30.864404Z" visited="2025-02-13T14:24:56.071781Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2025-04-22T06:15:30.855242Z" count="4"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2025-04-22T06:15:30.864402Z" count="4"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2025-02-13T16:45:30.730503Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tsp/Pictures/Screenshots/Screenshot%20from%202025-02-13%2016-53-13.png" added="2025-02-13T16:53:13.188264Z" modified="2025-02-13T16:59:21.799197Z" visited="2025-02-13T16:53:13.188264Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-02-13T16:53:13.188265Z" count="1"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2025-02-13T16:59:21.779585Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2025-02-13T16:59:21.799195Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tsp/Pictures/Screenshots/Screenshot%20from%202025-02-13%2016-53-36.png" added="2025-02-13T16:53:36.005385Z" modified="2025-02-13T16:59:36.662724Z" visited="2025-02-13T16:53:36.005386Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-02-13T16:53:36.005387Z" count="1"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2025-02-13T16:59:36.643935Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2025-02-13T16:59:36.662722Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tsp/Pictures/Screenshots/Screenshot%20from%202025-04-22%2006-03-01.png" added="2025-04-22T06:03:01.080971Z" modified="2025-04-22T06:15:52.881477Z" visited="2025-04-22T06:03:01.080972Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-04-22T06:03:01.080972Z" count="1"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2025-04-22T06:15:52.865626Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2025-04-22T06:15:52.881475Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tsp/Pictures/Screenshots/Screenshot%20from%202025-04-22%2006-03-37.png" added="2025-04-22T06:03:37.390356Z" modified="2025-04-22T06:15:11.181229Z" visited="2025-04-22T06:03:37.390356Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-04-22T06:03:37.390356Z" count="1"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2025-04-22T06:15:11.165106Z" count="2"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2025-04-22T06:15:11.181227Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
